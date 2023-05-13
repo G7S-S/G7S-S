@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Data Science
+description: Data science and machine learning research projects, pipeline implementations and hackathons
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

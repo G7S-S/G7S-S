@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Articles and Research
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Links to articles and research on topics ranging from exploratory data analysis to machine learning'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

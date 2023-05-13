@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Data Analytics
+description: Highlight on projects consisting of insight analytics, statistical modelling and more
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
