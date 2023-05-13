@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Exploratory Data Analysis Part - I</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This first part of the article covers a wide range of topics which are part of exploratory data analysis. The topics include, Data Inspection and Wrangling - which gives an overview of various data pre - processing operations, Univariate analysis - Different statistical measures are analysed in this section including visualization. All the topics are explained with the support of a dataset and python code</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
