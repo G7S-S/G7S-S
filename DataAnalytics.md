@@ -1,8 +1,8 @@
 ---
-title: Python Tool Development
+title: Data Analytics
 layout: landing
-description: 'Tools developed in python for NLP, automation and data synchronization'
-image: assets/images/pic07.jpg
+description: 'Highlight on projects consisting of insight analytics, statistical modelling and more'
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
