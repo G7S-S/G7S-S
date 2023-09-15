@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>This first part of the article covers a wide range of topics which are part of exploratory data analysis. The topics include, Data Inspection and Wrangling - which gives an overview of various data pre - processing operations, Univariate analysis - Different statistical measures are analysed in this section including visualization. All the topics are explained with the support of a dataset and python code</p>
 				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Learn more</a></li>
+					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Link to the article</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>This second part of the article picks up from the first part with further insights on the topics - Multivariate anaysis - where it is explored how relationship between 2 variables can be better understood with the help of statistics and visualization techniques, Hypothesis testing - Which helps statistically confirm with a degree of certainity on the chances of an event occuring.</p>
 				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Learn more</a></li>
+					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Link to the article</a></li>
 				</ul>
 			</div>
 		</div>
