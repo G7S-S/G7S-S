@@ -1,7 +1,7 @@
 ---
-title: Data Science
+title: Machine learning, GenAI
 layout: landing
-description: 'Data Science and Machine Learning research projects, pipelines and summary on hackathons attended and won.'
+description: 'Machine Learning, Data Science and GenAI projects, hackathons and also research pursued in the area'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -28,12 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> GPT Powered Requirement Analysis and Test Management Tool</h3>
+					<h3> GenAI Powered Tool for Software Requirement Artifact Analysis</h3>
 				</header>
-				<p>This first part of the article covers a wide range of topics which are part of exploratory data analysis. The topics include, Data Inspection and Wrangling - which gives an overview of various data pre - processing operations, Univariate analysis - Different statistical measures are analysed in this section including visualization. All the topics are explained with the support of a dataset and python code</p>
-				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Link to the article</a></li>
-				</ul>
+				<p>In Software development lifecycle from program management perspective it is important to have well defined requirement documentation. It is estimated that 60% of defects encountered during a project are caused by avoidable errors in requirements definition and analysis stage. This tool was created to help aid program managers and testers get the summary of the quality of the defined artifacts and also sugestions on better way to structure these to ensure error reduction in definition stage so as to save money in the long run when these errors give rise to defects or potentially major loss in the future. </p>
 			</div>
 		</div>
 	</section>
