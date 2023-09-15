@@ -1,5 +1,5 @@
 ---
-title: Data Analytics
+title: Data Analytics and Business Intelligence
 layout: landing
 description: 'Highlight on projects consisting of insight analytics, statistical modelling and more'
 image: assets/images/pic01.jpg

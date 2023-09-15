@@ -1,5 +1,5 @@
 ---
-title: Python Tool Development
+title: Coding and Automation
 layout: landing
 description: 'Tools developed in python for NLP, automation and data synchronization'
 image: assets/images/pic07.jpg

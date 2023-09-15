@@ -1,5 +1,5 @@
 ---
-title: Articles and Research
+title: Technical Articles
 layout: landing
 description: 'Links to articles and research on topics ranging from exploratory data analysis to machine learning'
 image: assets/images/pic07.jpg
