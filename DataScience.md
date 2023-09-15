@@ -1,7 +1,7 @@
 ---
 title: Data Science
 layout: landing
-description: 'Data Science and Machine Learning research projects, pipelines and summary on hackathons attended'
+description: 'Data Science and Machine Learning research projects, pipelines and summary on hackathons attended and won.'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
