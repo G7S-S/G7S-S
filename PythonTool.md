@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
 				</header>
-				<p>This second part of the article picks up from the first part with further insights on the topics - Multivariate anaysis - where it is explored how relationship between 2 variables can be better understood with the help of statistics and visualization techniques, Hypothesis testing - Which helps statistically confirm with a degree of certainity on the chances of an event occuring.</p>
+				<p>This is a tool built from scratch using python framework with help of REST API, Azure pipeline and multiple other packages. This tool performs synchronisation between Jira and Azure DevOps for the selected fields with custom mappings. The tool synchronises objects every minute to ensure seamlessness and quick reflection of changesbetween applications.</p>
 				<ul class="actions">
 					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Learn more</a></li>
 				</ul>
@@ -62,9 +62,9 @@ nav-menu: true
 				<header class="major">
 					<h3>MI reporting and email automation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Management Information reorts from multiple data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Contact to know more</a></li>
 				</ul>
 			</div>
 		</div>

@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>MI reporting and email automation</h3>
 				</header>
-				<p>Management Information from complex data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
+				<p>Management Information reorts from multiple data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
 			</div>
 		</div>
 	</section>
