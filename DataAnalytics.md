@@ -20,6 +20,7 @@ nav-menu: true
 </section> -->
 
 <!-- Two -->
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -28,9 +29,22 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> GPT Powered Requirement Analysis and Test Management Tool</h3>
+					<h3>Analysis of Defect and Test Execution data with reporting for program management</h3>
 				</header>
-				<p>This first part of the article covers a wide range of topics which are part of exploratory data analysis. The topics include, Data Inspection and Wrangling - which gives an overview of various data pre - processing operations, Univariate analysis - Different statistical measures are analysed in this section including visualization. All the topics are explained with the support of a dataset and python code</p>
+				<p>As part of Program Management team for an investment management client undergoing major and complex platform transformation. Responsible for deriving summary statistics for test execution and pending defects to ensure timely completion of program. Owned, designed and circulated multiple key management information reports to upper management which aided in better understanding of the progress. Multiple challenges were faced in this project which were resolved with using python, REST API and advanced reporting and summarizing techniques to ensure constant flow of information, trends and insights.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Multiple Capstone Projects - Highlighting knowledge in Descriptive analytics, Clustering, Conjoint Analysis, Time Series Forecasting with Decomposition, Artifical Neural Network</h3>
+				</header>
+				<p>Multiple real life scenarios and problems were considered and appropriate analysis techniques were used to identify rich insights. Descriptive Analysis - Housing data set was created for my hometown and descriptive statistics for the house price was found along with prediction of house prices based on various parameters, Clustering - Customer segmentation for banking, Conjoint Analysis - Market feedback research for product company, Time Series forecasting - Airline customer prediction, Artifical Neural Network - Stock price prediction. </p>
 				<ul class="actions">
 					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Learn more</a></li>
 				</ul>
@@ -44,25 +58,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
+					<h3>Big Data for Decision Making - Helping a hypothetical insurance company by analysing the data and predicting accident severity based on UK gov public accident dataset</h3>
 				</header>
-				<p>This second part of the article picks up from the first part with further insights on the topics - Multivariate anaysis - where it is explored how relationship between 2 variables can be better understood with the help of statistics and visualization techniques, Hypothesis testing - Which helps statistically confirm with a degree of certainity on the chances of an event occuring.</p>
+				<p>UK accident dataset for 3 years with around 1 million rows was considered for this project. Thorough data wrangling and exploratory data analysis was conducted to identify insights, trends in the dataset. Ultimately the data was trained on multiple different machine learning classification models with extensive hyperparameter tuning to identify the best model which can best predict the target variable - Accident Severity with sufficient accuracy.</p>
 				<ul class="actions">
 					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Learn more</a></li>
 				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>MI reporting and email automation</h3>
-				</header>
-				<p>Management Information reorts from multiple data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
 			</div>
 		</div>
 	</section>
