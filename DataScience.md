@@ -43,10 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
 				</header>
-				<p>This second part of the article picks up from the first part with further insights on the topics - Multivariate anaysis - where it is explored how relationship between 2 variables can be better understood with the help of statistics and visualization techniques, Hypothesis testing - Which helps statistically confirm with a degree of certainity on the chances of an event occuring.</p>
-				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Link to the article</a></li>
-				</ul>
+				<p>This is a tool built from scratch using python framework with help of REST API, Azure pipeline and multiple other packages. This tool performs synchronisation between Jira and Azure DevOps for the selected fields with custom mappings. The tool synchronises objects every minute to ensure seamlessness and quick reflection of changesbetween applications.</p>
 			</div>
 		</div>
 	</section>
