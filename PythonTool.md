@@ -23,22 +23,6 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3> GPT Powered Requirement Analysis and Test Management Tool</h3>
-				</header>
-				<p>This first part of the article covers a wide range of topics which are part of exploratory data analysis. The topics include, Data Inspection and Wrangling - which gives an overview of various data pre - processing operations, Univariate analysis - Different statistical measures are analysed in this section including visualization. All the topics are explained with the support of a dataset and python code</p>
-				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -62,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>MI reporting and email automation</h3>
 				</header>
-				<p>Management Information reorts from multiple data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
+				<p> Efficient collection and manipulation of data in the fastest way is important while working with dispersed data and for tracking accurate program progress to identify risks, issues, areas of improvements. Manual and time consuming methods previously employed were replaced with python scripts which were highly efficient in delivering required statistics with a click of a button. Further optimisation was done with sending the report to various stakeholders using Microsoft component object model package for python using which with a click of a button report was generated and sent.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Contact to know more</a></li>
 				</ul>
