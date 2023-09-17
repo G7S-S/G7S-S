@@ -23,19 +23,6 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3> GenAI Powered Tool for Software Requirement Artifact Analysis</h3>
-				</header>
-				<p>In Software development lifecycle from program management perspective it is important to have well defined requirement documentation. It is estimated that 60% of defects encountered during a project are caused by avoidable errors in requirements definition and analysis stage. This tool was created to help aid program managers and testers get the summary of the quality of the defined artifacts and also sugestions on better way to structure these to ensure error reduction in definition stage so as to save money in the long run when these errors give rise to defects or potentially major loss in the future. </p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -60,6 +47,19 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://devpost.com/software/a1-team-data-science-for-healthcare" class="button">Link to the hackathon portfolio</a></li>
 				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> GenAI Powered Tool for Software Requirement Artifact Analysis</h3>
+				</header>
+				<p>In Software development lifecycle from program management perspective it is important to have well defined requirement documentation. It is estimated that 60% of defects encountered during a project are caused by avoidable errors in requirements definition and analysis stage. This tool was created to help aid program managers and testers get the summary of the quality of the defined artifacts and also sugestions on better way to structure these to ensure error reduction in definition stage so as to save money in the long run when these errors give rise to defects or potentially major loss in the future. </p>
 			</div>
 		</div>
 	</section>
