@@ -62,10 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>MI reporting and email automation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Management Information from complex data sources were collected and summary statistics calculation, report scheduling was streamlined using python, Component Object Model - COM etc.</p>
 			</div>
 		</div>
 	</section>
