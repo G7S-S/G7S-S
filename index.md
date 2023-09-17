@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am an engineering undergrad with Masters degree in Business Analytics.
+Click the below link to download my resume! Feel free to contact me based on the details provided in the resume.
