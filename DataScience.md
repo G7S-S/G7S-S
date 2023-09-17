@@ -41,9 +41,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
+					<h3>Feature Engineering and Feature Selection - Comprehensive Analysis with Machine Learning Simulation [Research Thesis]</h3>
 				</header>
-				<p>This is a tool built from scratch using python framework with help of REST API, Azure pipeline and multiple other packages. This tool performs synchronisation between Jira and Azure DevOps for the selected fields with custom mappings. The tool synchronises objects every minute to ensure seamlessness and quick reflection of changesbetween applications.</p>
+				<p>This study addresses the need for a comprehensive framework in machine learning for feature engineering and selection. It begins by introducing the concept of reducible and irreducible errors and demonstrates through simulation that machine learning models struggle to surpass the reducible error threshold. Feature engineering is then shown to break this ceiling by introducing new features. The second part of the study explores various feature engineering and selection methods, providing insights into their mechanisms, functions, applications, and limitations. Overall, this research aims to streamline the adoption of these methods for machine learning practitioners.</p>
 			</div>
 		</div>
 	</section>
@@ -54,11 +54,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>MI reporting and email automation</h3>
+					<h3>ML Hackathon - Predicting epitopes for parasite causing chagas disease [Placed 1st]</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hackathon organized between 2 universities Aston University and SIT Pune, working on a Data science problem in healthcare by developing an efficient data mining pipeline to (potentially) predict new, previously unknown epitopes for the parasite causing potentially fatal illness - Chagas disease. The dataset consisted of 390 features with around 80000 observations, challenge mainly included rows being related to each other which increased the risk of data leakage within the model. Model pipeline was designed with various feature engineering and best model selection phase. We were awarded winners of the hackathon due to the approach taken towards the problem and our understanding of the machine learning models and techniques</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://devpost.com/software/a1-team-data-science-for-healthcare" class="button">Link to the hackathon portfolio</a></li>
 				</ul>
 			</div>
 		</div>
