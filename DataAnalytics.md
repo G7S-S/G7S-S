@@ -46,14 +46,14 @@ nav-menu: true
 				</header>
 				<p>Multiple real life scenarios and problems were considered and appropriate analysis techniques were used to identify rich insights. Descriptive Analysis - Housing data set was created for my hometown and descriptive statistics for the house price was found along with prediction of house prices based on various parameters, Clustering - Customer segmentation for banking, Conjoint Analysis - Market feedback research for product company, Time Series forecasting - Airline customer prediction, Artifical Neural Network - Stock price prediction. </p>
 				<ul class="actions">
-					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Business_analytics_in_practice_-_Final_v2.pdf" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Business_analytics_in_practice_-_Final_v2.pdf" class="button">Link to project</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -62,7 +62,7 @@ nav-menu: true
 				</header>
 				<p>UK accident dataset for 3 years with around 1 million rows was considered for this project. Thorough data wrangling and exploratory data analysis was conducted to identify insights, trends in the dataset. Ultimately the data was trained on multiple different machine learning classification models with extensive hyperparameter tuning to identify the best model which can best predict the target variable - Accident Severity with sufficient accuracy.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Big_data_individual_assignment-finalee-Copy1.pdf" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Big_data_individual_assignment-finalee-Copy1.pdf" class="button">Link to project</a></li>
 				</ul>
 			</div>
 		</div>
