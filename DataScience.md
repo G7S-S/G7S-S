@@ -31,6 +31,9 @@ nav-menu: true
 					<h3>Feature Engineering and Feature Selection - Comprehensive Analysis with Machine Learning Simulation [Research Thesis]</h3>
 				</header>
 				<p>This study addresses the need for a comprehensive framework in machine learning for feature engineering and selection. It begins by introducing the concept of reducible and irreducible errors and demonstrates through simulation that machine learning models struggle to surpass the reducible error threshold. Feature engineering is then shown to break this ceiling by introducing new features. The second part of the study explores various feature engineering and selection methods, providing insights into their mechanisms, functions, applications, and limitations. Overall, this research aims to streamline the adoption of these methods for machine learning practitioners.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/ea6eb0c2c717b33e1d05565990824fc026dbd4db/Feature_engineering_Feature_selection_-_Comprehensive_analysis_with_simulation_study.pdf" class="button">Link to the thesis</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
