@@ -31,9 +31,6 @@ nav-menu: true
 					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
 				</header>
 				<p>This is a tool built from scratch using python framework with help of REST API, Azure pipeline and multiple other packages. This tool performs synchronisation between Jira and Azure DevOps for the selected fields with custom mappings. The tool synchronises objects every minute to ensure seamlessness and quick reflection of changesbetween applications.</p>
-				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -47,9 +44,6 @@ nav-menu: true
 					<h3>MI reporting and email automation</h3>
 				</header>
 				<p> Efficient collection and manipulation of data in the fastest way is important while working with dispersed data and for tracking accurate program progress to identify risks, issues, areas of improvements. Manual and time consuming methods previously employed were replaced with python scripts which were highly efficient in delivering required statistics with a click of a button. Further optimisation was done with sending the report to various stakeholders using Microsoft component object model package for python using which with a click of a button report was generated and sent.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Contact to know more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>

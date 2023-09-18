@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Analysis of Defect and Test Execution data with reporting for program management</h3>
 				</header>
-				<p>As part of Program Management team for an investment management client undergoing major and complex platform transformation. Responsible for deriving summary statistics for test execution and pending defects to ensure timely completion of program. Owned, designed and circulated multiple key management information reports to upper management which aided in better understanding of the progress. Multiple challenges were faced in this project which were resolved with using python, REST API and advanced reporting and summarizing techniques to ensure constant flow of information, trends and insights.</p>
+				<p>As part of Program Management team for an investment management client undergoing major platform transformation. Responsible for deriving summary statistics for test execution and pending defects to ensure timely completion of program. Owned, designed and circulated multiple key management information reports to upper management which aided in better understanding of the progress. Multiple challenges were faced in this project which were resolved with using python, REST API and advanced reporting and summarizing techniques to ensure constant flow of information, trends and insights.</p>
 			</div>
 		</div>
 	</section>
@@ -46,7 +46,7 @@ nav-menu: true
 				</header>
 				<p>Multiple real life scenarios and problems were considered and appropriate analysis techniques were used to identify rich insights. Descriptive Analysis - Housing data set was created for my hometown and descriptive statistics for the house price was found along with prediction of house prices based on various parameters, Clustering - Customer segmentation for banking, Conjoint Analysis - Market feedback research for product company, Time Series forecasting - Airline customer prediction, Artifical Neural Network - Stock price prediction. </p>
 				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Business_analytics_in_practice_-_Final_v2.pdf" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -62,7 +62,7 @@ nav-menu: true
 				</header>
 				<p>UK accident dataset for 3 years with around 1 million rows was considered for this project. Thorough data wrangling and exploratory data analysis was conducted to identify insights, trends in the dataset. Ultimately the data was trained on multiple different machine learning classification models with extensive hyperparameter tuning to identify the best model which can best predict the target variable - Accident Severity with sufficient accuracy.</p>
 				<ul class="actions">
-					<li><a href="https://medium.com/@gaganshetty/exploratory-data-analysis-eda-with-hypothesis-testing-for-beginners-part-ii-with-code-and-967032e44990" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Big_data_individual_assignment-finalee-Copy1.pdf" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
