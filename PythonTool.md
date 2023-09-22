@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data Synchronisation tool - Jira and Azure DevOps</h3>
 				</header>
-				<p>This is a tool built from scratch using python framework with help of REST API, Azure pipeline and multiple other packages. This tool performs synchronisation between Jira and Azure DevOps for the selected fields with custom mappings. The tool synchronises objects every minute to ensure seamlessness and quick reflection of changesbetween applications.</p>
+				<p>Developed a robust data synchronization tool using Python, REST APIs, and Azure Pipelines. This tool streamlines the process of synchronizing work items between Jira and Azure DevOps, ensuring seamless collaboration across platforms. By leveraging the power of automation and integration, it enhances project management efficiency and transparency. With this solution, the gap between two popular project management ecosystems is bridged, allowing teams to work cohesively and exchange critical work item data effortlessly.</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>MI reporting and email automation</h3>
 				</header>
-				<p> Efficient collection and manipulation of data in the fastest way is important while working with dispersed data and for tracking accurate program progress to identify risks, issues, areas of improvements. Manual and time consuming methods previously employed were replaced with python scripts which were highly efficient in delivering required statistics with a click of a button. Further optimisation was done with sending the report to various stakeholders using Microsoft component object model package for python using which with a click of a button report was generated and sent.</p>
+				<p> Efficiently gathering and handling data swiftly becomes paramount when dealing with scattered data sources, especially for precise program progress tracking and risk identification, issue resolution, and areas of enhancement. To streamline these processes, I replaced time-consuming manual methods with Python scripts, offering remarkable efficiency with just a single click. Additionally, I optimized the workflow by incorporating the Microsoft Component Object Model package for Python, enabling effortless generation and distribution of reports to various stakeholders with a simple click.</p>
 			</div>
 		</div>
 	</section>

@@ -31,7 +31,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Analysis of Defect and Test Execution data with reporting for program management</h3>
 				</header>
-				<p>As part of Program Management team for an investment management client undergoing major platform transformation. Responsible for deriving summary statistics for test execution and pending defects to ensure timely completion of program. Owned, designed and circulated multiple key management information reports to upper management which aided in better understanding of the progress. Multiple challenges were faced in this project which were resolved with using python, REST API and advanced reporting and summarizing techniques to ensure constant flow of information, trends and insights.</p>
+				<p>As a member of the Program Management team overseeing a significant platform transformation project for an investment management client, my responsibilities included generating summary statistics for test execution and monitoring pending defects to ensure the timely completion of the program. I took ownership of designing and distributing several crucial management information reports to senior leadership, greatly enhancing their comprehension of the project's progress.<br>
+				Throughout this endeavor, we encountered various challenges that were successfully addressed through the utilization of Python, REST APIs, and advanced reporting and summarization techniques. These tools and methodologies enabled us to maintain a consistent flow of information, uncover valuable trends, and extract actionable insights</p>
 			</div>
 		</div>
 	</section>
@@ -44,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Multiple Capstone Projects - Highlighting knowledge in Descriptive analytics, Clustering, Conjoint Analysis, Time Series Forecasting with Decomposition, Artifical Neural Network</h3>
 				</header>
-				<p>Multiple real life scenarios and problems were considered and appropriate analysis techniques were used to identify rich insights. Descriptive Analysis - Housing data set was created for my hometown and descriptive statistics for the house price was found along with prediction of house prices based on various parameters, Clustering - Customer segmentation for banking, Conjoint Analysis - Market feedback research for product company, Time Series forecasting - Airline customer prediction, Artifical Neural Network - Stock price prediction. </p>
+				<p>I tackled a range of real-world challenges with analytical skillset, including creating a housing dataset for my hometown and using descriptive statistics for price insights, performing customer segmentation for a bank, conducting market feedback research via conjoint analysis, forecasting airline customer behavior with time series analysis, and predicting stock prices using Artificial Neural Networks. These experiences underscore my versatility in applying analytical techniques across diverse domains.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Business_analytics_in_practice_-_Final_v2.pdf" class="button">Link to project</a></li>
 				</ul>
@@ -60,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Big Data for Decision Making - Helping a hypothetical insurance company by analysing the data and predicting accident severity based on UK gov public accident dataset</h3>
 				</header>
-				<p>UK accident dataset for 3 years with around 1 million rows was considered for this project. Thorough data wrangling and exploratory data analysis was conducted to identify insights, trends in the dataset. Ultimately the data was trained on multiple different machine learning classification models with extensive hyperparameter tuning to identify the best model which can best predict the target variable - Accident Severity with sufficient accuracy.</p>
+				<p>I worked on a project that involved a comprehensive UK accident dataset spanning three years and comprising approximately one million rows. To extract meaningful insights and uncover trends within this dataset, I meticulously performed data wrangling and exploratory data analysis. Subsequently, I engaged in an extensive process of training the data on various machine learning classification models, fine-tuning hyperparameters to ascertain the most accurate model for predicting the target variable - Accident Severity.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Gagan-Shetty/Projects/blob/4fc2fae8a3af377e8cebc829eacdc112e53c2ad9/Big_data_individual_assignment-finalee-Copy1.pdf" class="button">Link to project</a></li>
 				</ul>

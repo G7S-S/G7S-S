@@ -11,7 +11,7 @@ city: Reading
 state: 
 zip_code:
 country: United Kingdom
-phone: 07824061008
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
