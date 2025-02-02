@@ -3,7 +3,7 @@ title: Gagan
 subtitle: Portfolio
 email: gaganshtt7@gmail.com
 description: Hi, Thanks for visiting my website. Please click below tiles to learn more about my experience in developing Machine Learning models, data automation tools, Data analytics and BI development and techical artiles published and researched!
-# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
